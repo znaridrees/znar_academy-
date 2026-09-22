@@ -1,0 +1,51 @@
+name: znar_academy
+description: A professional academic marketplace for university students.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  syncfusion_flutter_pdfviewer: ^34.2.7
+  shared_preferences: ^2.5.5
+  image_picker: ^1.2.3
+  image_cropper: ^11.0.0
+  path_provider: ^2.1.4
+  firebase_messaging: ^16.7.0
+  firebase_app_check: ^0.4.1
+  flutter_localizations:
+    sdk: flutter
+  firebase_core: ^4.14.0
+  firebase_auth: ^6.6.1
+  cloud_firestore: ^6.9.0
+  file_picker: ^13.0.0
+  url_launcher: ^6.3.2
+  http: ^1.6.0
+  supabase_flutter: ^2.8.0
+  video_player: ^2.14.0
+  package_info_plus: ^10.2.1
+  encrypt: ^5.0.3
+  screen_protector: ^1.5.3
+  google_sign_in: ^7.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pdf/Mizani 2023.pdf
+    - assets/images/logo.png
+    - assets/images/logo1.png
+    - assets/images/logo2.png
+    - assets/videos/splash.mp4

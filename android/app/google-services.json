@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890683591352",
+    "project_id": "znar-academy-f91be",
+    "storage_bucket": "znar-academy-f91be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890683591352:android:f47bf0e80241680bfd824d",
+        "android_client_info": {
+          "package_name": "com.example.znar_academy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUb8otORDQiGDcmKQIRy2GospnrfzWIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
